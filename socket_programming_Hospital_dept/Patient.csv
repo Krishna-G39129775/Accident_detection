@@ -1,0 +1,13 @@
+﻿Date_Admitted,Time_Admitted,Patient_Name,Patient_ID,Age,Gender,Saved
+21/01/12,5:45PM,Ramesh,101,35,Female,Yes
+10/04/12,2:58AM,Suresh,102,25,Female,No
+27/04/12,3:39PM,Ganesh,103,27,Male,Yes
+13/07/12,2:27PM,Naresh,104,21,Male,Yes
+22/08/12,4:50AM,Narappa,105,29,Female,Yes
+11/01/13,3:52AM,Gautam,106,28,Male,No
+18/03/13,12:57AM,Nanda,107,36,Male,No
+20/06/13,2:25AM,Ashok,108,40,Male,Yes
+28/09/13,8:30PM,Venkatesh,109,46,Male,Yes
+30/12/13,11:42PM,Madhu,110,37,Female,Yes
+02/01/14,9:54AM,Jayanth,111,54,Male,Yes
+,,,,,,
